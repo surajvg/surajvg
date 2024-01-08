@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj 💻</h1>
-<h3 align="left">Connect with me:</h3><a href="https://twitter.com/surajvgouda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajvgouda_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/surajvgouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajvgouda" height="30" width="40" /></a>
-<a href="https://instagram.com/surajvgouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajvgouda" height="30" width="40" /></a>
+<h3 align="center">Ready to bring technical skills and creativity to a dynamic team in a challenging environment.</h3>
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <h5 align="left">Programming Languages</h5>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
