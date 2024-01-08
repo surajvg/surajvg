@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj 💻</h1>
-<h3 align="center">Ready to bring technical skills and creativity to a dynamic team in a challenging environment.</h3>
+<h3 align="center">Ready to bring technical skills and creativity to a dynamic team.</h3>
 
 <h3 align="left">Languages and Tools</h3>
 <h5 align="left">Programming Languages</h5>
